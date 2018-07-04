@@ -1,6 +1,6 @@
 # Work diary of Mary
 
-## 4th,July,2018 Wednesday
+## 4th, July, 2018 Wednesday
 
 1. Finshed the preliminary desgin of four module -- `question`, `publish`, `answer` and `option`
 
