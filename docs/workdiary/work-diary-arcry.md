@@ -2,26 +2,18 @@
 
 ## 4th, July, 2018 Wednesday
 
-1. Add value object of `user` entity in Angular
+1. Learned Angular and finished how Angular used fontawesome and antd.
 
-    + File named `user.ts`
+    + Resolved we should use which fontawesome, and how we use it.
 
-    + Export the interface with five fields
+        + $ npm install --save font-awesome angular-font-awesome
 
-1. Add service of `user` entity in Angular
+        + In the app.module.ts,add "import { AngularFontAwesomeModule } from 'angular-font-awesome';"
 
-    + File named `./services/user.service.ts`
+        + In the angular.json,add the "style" , "node_modules/font-awesome/css/font-awesome.css"
+    
+    + Add antd to ours project.
 
-    + Export the class with following methods
+2. Learned BEM.
 
-        + Get the information of login user
-
-        + Login operation
-
-        + Register operation
-
-        + Determine if a phone number already exists
-
-        + Send verify code to a phone number
-
-1. Completed the interaction between Anular and the tomcat server
+3. Create a sign project, and finished the basic configuration.
