@@ -24,4 +24,4 @@
 
         + Send verify code to a phone number
 
-1. Completed the interaction between Anular and the tomcat server by HttpClientMoudle and RxJs
+1. Completed the interaction between Angular and the tomcat server by HttpClientMoudle and RxJs
