@@ -31,3 +31,4 @@
 **UI:**
 - [Ant Design of Angular](https://ng.ant.design): v1.1.1
 - [Fontawesome](https://fontawesome.com): v5.1.0
+> npm:https://www.npmjs.com/package/angular-font-awesome
