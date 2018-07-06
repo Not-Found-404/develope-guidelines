@@ -28,3 +28,16 @@
 **配色**
 
 - 主配色:#0078D7
+
+- npm 安装 [fontawesome](https://www.npmjs.com/package/angular-font-awesome)
+
+[Icons](https://fontawesome.com/icons)参照及使用方法：
+
+Name|Type|Options|Optional
+---|:--:|:--:|---:
+name|String|F-A|Icons|No
+size|String|lg, 2x, 3x, 4x, 5x|Yes
+fixed|Boolean|true|false|Yes
+animation|String|spin|pulse|Yes
+rotate|Number\|String|90\|180\|270| horizontal\|vertical|Yes
+inverse|Boolean|true\|false|Yes
